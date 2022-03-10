@@ -1,2 +1,2 @@
-# todo
-Outputs all  todo and fixme comments presents in php files
+# Todo
+Outputs all `todo` and `fixme` comments presents in php files.
