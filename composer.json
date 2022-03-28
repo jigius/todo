@@ -22,6 +22,6 @@
     "bin": ["bin/todo"],
     "require": {
         "php": ">=7.0",
-        "nikic/php-parser": "^4.13"
+        "nikic/php-parser": "~4.0"
     }
 }
